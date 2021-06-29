@@ -32,7 +32,7 @@ import '@hai2007/style/normalize.css';
 或
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style/normalize.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style@0/normalize.css">
 ```
 
 - 十二栅格化
@@ -44,7 +44,7 @@ import '@hai2007/style/rasterize.css';
 或
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style/rasterize.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style@0/rasterize.css">
 ```
 
 [<< 查看文档](./apis/rasterize.md)
@@ -58,7 +58,7 @@ import '@hai2007/style/doc-view.css';
 或
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style/doc-view.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@hai2007/style@0/doc-view.css">
 ```
 
 [<< 查看文档](./apis/doc-view.md)
